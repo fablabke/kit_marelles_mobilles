@@ -2,6 +2,4 @@
 kit pour généré des Marelles + chariot vélo
 
 Ces fichiers furent créés durant la residence 2023 du Réseau des fablabs Bruxellois
-#
-Licence
-CC, BY festival des Marelles et fablab'ke, NC, ND
+Ces fichiers sont sous licences : CC, BY festival des Marelles et Fablab'ke, NC, ND
